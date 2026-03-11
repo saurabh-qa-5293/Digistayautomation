@@ -1,0 +1,29 @@
+{
+  "missing_mobile": {
+    "first_name": "Rahul",
+    "last_name": "Sharma",
+    "mobile": "",
+    "email": "rahul.sharma@test.com",
+    "gender": "Male",
+    "address": "Delhi, India",
+    "document_file": "documents/guest_id_front.png"
+  },
+  "invalid_email": {
+    "first_name": "Rahul",
+    "last_name": "Sharma",
+    "mobile": "9876543210",
+    "email": "rahul.sharma",
+    "gender": "Male",
+    "address": "Delhi, India",
+    "document_file": "documents/guest_id_front.png"
+  },
+  "invalid_upload_file": {
+    "first_name": "Rahul",
+    "last_name": "Sharma",
+    "mobile": "9876543210",
+    "email": "rahul.sharma@test.com",
+    "gender": "Male",
+    "address": "Delhi, India",
+    "document_file": "documents/invalid_file.txt"
+  }
+}

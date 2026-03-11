@@ -1,0 +1,17 @@
+{
+  "TC_CHECKIN_RV_001": {
+    "guest_key": "valid_guest_1"
+  },
+  "TC_CHECKIN_RV_002": {
+    "guest_key": "valid_guest_2"
+  },
+  "TC_CHECKIN_RV_ERR_001": {
+    "guest_key": "missing_mobile"
+  },
+  "TC_CHECKIN_RV_ERR_002": {
+    "guest_key": "invalid_email"
+  },
+  "TC_CHECKIN_RV_ERR_003": {
+    "guest_key": "invalid_upload_file"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "valid_guest_1": {
+    "first_name": "Rahul",
+    "last_name": "Sharma",
+    "mobile": "9876543210",
+    "email": "rahul.sharma@test.com",
+    "gender": "Male",
+    "address": "Delhi, India",
+    "document_file": "data/aadhar_front.png",
+    "document_file_front": "data/aadhar_front.png",
+    "document_file_back": "data/aadhar_back.png"
+  },
+  "valid_guest_2": {
+    "first_name": "Aman",
+    "last_name": "Verma",
+    "mobile": "9123456789",
+    "email": "aman.verma@test.com",
+    "gender": "Male",
+    "address": "Noida, India",
+    "document_file": "data/Pass new.png",
+    "document_file_front": "data/aadhar_front.png",
+    "document_file_back": "data/aadhar_back.png"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "reservation_1": {
+    "source": "Direct",
+    "checkin_days_from_today": 1,
+    "checkout_days_from_today": 3,
+    "total_guests": "2",
+    "number_of_rooms": 2,
+    "rooms": ["BV1", "BV2"],
+    "advance": "0"
+  },
+  "reservation_2": {
+    "source": "Direct",
+    "checkin_days_from_today": 5,
+    "checkout_days_from_today": 7,
+    "total_guests": "1",
+    "number_of_rooms": 1,
+    "rooms": ["BV1"],
+    "advance": "0"
+  }
+}
